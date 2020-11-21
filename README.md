@@ -11,6 +11,6 @@
 
 ## Proyecto
 
-Integrantes: No sé como escribir en markdown.
+Integrantes: Tomás Cortés, Cristóbal Cancino, Bruno Martinez
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brunomb97/mat281-proyecto/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brunomb97/mat281-proyecto/main?urlpath=lab)
