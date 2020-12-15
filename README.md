@@ -7,10 +7,17 @@
 </br>
 </br>
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
+# MAT281 - Aplicaciones de la Matemática en la Ingeniería (2020 - 2)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brunomb97/mat281-proyecto/main?urlpath=lab)
 
 ## Proyecto
 
-Integrantes: Tomás Cortés, Cristóbal Cancino, Bruno Martinez
+En este proyecto se utilizará una base de datos donde ...
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brunomb97/mat281-proyecto/main?urlpath=lab)
+## Participantes:
+
+* Tomás Cortés, 
+* Cristóbal Cancino, 
+* Bruno Martinez
+

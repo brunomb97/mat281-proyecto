@@ -1,0 +1,2 @@
+data/pdb_data_no_dups.csv filter=lfs diff=lfs merge=lfs -text
+data/pdb_data_seq.csv filter=lfs diff=lfs merge=lfs -text
