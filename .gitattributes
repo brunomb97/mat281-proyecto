@@ -3,3 +3,4 @@ data/pdb_data_seq.csv filter=lfs diff=lfs merge=lfs -text
 propuesta.ipynb filter=lfs diff=lfs merge=lfs -text
 prueba.ipynb !text !filter !merge !diff
 propuesta.ipynb !text !filter !merge !diff
+binder/postBuild !text !filter !merge !diff
