@@ -5,14 +5,14 @@ channels:
 dependencies:
   # Jupyter
   - jupyterlab
-  - nodejs=11
-  - widgetsnbextension=3.5
+  - nodejs
+  - widgetsnbextension
   # Python kernel
   - altair=4
   - altair_saver
   - beautifulsoup4=4.9
   - h5py=2.10
-  - ipywidgets=7.5
+  - ipywidgets
   - matplotlib-base=3.2
   - numba=0.48
   - numpy
