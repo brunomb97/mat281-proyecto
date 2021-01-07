@@ -1,7 +1,10 @@
 data/pdb_data_no_dups.csv filter=lfs diff=lfs merge=lfs -text
 data/pdb_data_seq.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 propuesta.ipynb filter=lfs diff=lfs merge=lfs -text
 prueba.ipynb !text !filter !merge !diff
 propuesta.ipynb !text !filter !merge !diff
 binder/postBuild !text !filter !merge !diff
 binder/environment.yml !text !filter !merge !diff
+=======
+>>>>>>> 35dc170b7d1f28098cad69d22f6c4e662281d400
